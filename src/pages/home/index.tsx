@@ -67,12 +67,12 @@ export const Home = (): JSX.Element => {
           <ProjectAreaWrapperColumns>
             <ProjectsAreaSocialMediaMessage>
               <Text as="h2" type="heading4" color="grey1">
-                Vamos trocar uma ideia?
+                Sobre mim
               </Text>
               <Text as="p" type="body1" color="grey2">
-                No linkedIn sempre estou compartilhando meus processos diários
-                para desenvolver esses projetos e estou disposto a trocar
-                algumas ideias por lá
+              Atuando na área da tecnologia desde 2015, possuo experiencia nos setores comerciais e suporte técnico.
+              Sou formado em Gestão de Tecnologia da Informação e atualmente estou me qualificando através de um curso de Desenvolvimento 
+              Full Stack, com formação prevista para março/2023.
               </Text>
               <Button
                 type="primary"
